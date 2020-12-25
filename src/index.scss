@@ -1,0 +1,13 @@
+@import './scss/modern.scss';
+@import './scss/modern-light.scss';
+@import './components/sidebar/sidebar.component.scss';
+@import './components/navbar/navbar.component.scss';
+@import './components/header/header.component.scss';
+
+body {
+  margin: 0;
+}
+
+canvas {
+  display: block;
+}
