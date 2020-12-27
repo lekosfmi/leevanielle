@@ -14,11 +14,9 @@ export function Sidebar({isHidden}) {
         <ul className="sidebar-nav">
           <li className="sidebar-item">
             <ul id="item" className="sidebar-dropdown list-unstyled">
-              <li className="sidebar-item "><a className="sidebar-link" href="/forms/layouts">Project 1 </a></li>
-              <li className="sidebar-item "><a className="sidebar-link" href="/forms/basic-elements">Project 2 </a></li>
-              <li className="sidebar-item "><a className="sidebar-link" href="/forms/advanced-elements">Project 3 </a></li>
-              <li className="sidebar-item "><a className="sidebar-link" href="/forms/input-groups">Project 4 </a></li>
-              <li className="sidebar-item "><a className="sidebar-link" href="/forms/editors">Project 5 </a></li>
+              <li className="sidebar-item "><a className="sidebar-link" href="/forms/layouts">Ytube Sentiment Analysis</a></li>
+              <li className="sidebar-item "><a className="sidebar-link" href="/forms/basic-elements">Stock Exchanges Analysis</a></li>
+              <li className="sidebar-item "><a className="sidebar-link" href="/forms/advanced-elements">Text Generation</a></li>
             </ul>
           </li>
         </ul>
