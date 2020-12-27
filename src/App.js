@@ -19,52 +19,11 @@ function App() {
         />
         <div className="content">
 
-          <div className="container-fluid">
+          <div className="container">
             <Header />
-
-            <div className="row">
-              <div className="d-flex">
-                <div className="card">
-                  <div className="card-header">
-                    <h1>Profile 1</h1>
-                  </div>
-                  <div className="card-body">
-                    <h1>Profile Body</h1>
-                  </div>
-                </div>
-              </div>
-            </div>
-
-            <div className="row">
-              <div className="d-flex">
-                <div className="card">
-                  <div className="card-header">
-                    <h1>Profile 2</h1>
-                  </div>
-                  <div className="card-body">
-                    <h1>Profile Body</h1>
-                  </div>
-                </div>
-              </div>
-            </div>
-
-            <div className="row">
-              <div className="d-flex">
-                <div className="card">
-                  <div className="card-header">
-                    <h1>Profile 3</h1>
-                  </div>
-                  <div className="card-body">
-                    <h1>Profile Body</h1>
-                  </div>
-                </div>
-              </div>
-            </div>
-
           </div>
 
         </div>
-
       </div>
     </div>
   );
